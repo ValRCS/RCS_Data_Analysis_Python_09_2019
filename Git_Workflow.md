@@ -23,12 +23,15 @@ https://git-scm.com/downloads
 
 * git log shows revision history with SHA1 hash value for each revision
 
+## Version
+* git --version   shows current git version
+
 ## Update automagically original repo: *git pull* from the same directory
 * git pull is like two commands into one
 * git fetch + git merge pulls changes from default origin(this repo) into your local repo and merges them 
 
 ## Edit/Move Files in local clone from command line terminal
-* git status for status
+* git status show current status
 * git add . from project root to stage changes
 * git status to make sure
 * git commmit -m "My helpful commit message" to commmit **locally**
