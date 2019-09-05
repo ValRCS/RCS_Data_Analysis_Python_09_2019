@@ -18,7 +18,7 @@ From https://medium.com/@eduoshaun/difference-between-git-and-github-807f1a57d43
 https://git-scm.com/downloads
 
 ## Start using the repo run in terminal: 
-*git clone https://github.com/ValRCS/RCS_Data_Analysis_Python_2019_May.git*
+*git clone https://github.com/ValRCS/RCS_Data_Analysis_Python_09_2019.git*
 * clones whole repo in the current working directory from which you run git clone
 
 * git log shows revision history with SHA1 hash value for each revision
@@ -40,6 +40,12 @@ https://git-scm.com/downloads
 * git reset --hard SHA1 where SHA1 is SHA1 of the revision you want
 
 * git pull to get back to HEAD revision
+
+## Reset to master branch
+
+* git fetch --all
+* git reset --hard origin/master
+Note: this will overwrite any changes you might have made to the files locally
 
 
 ### Various workflows: https://www.atlassian.com/git/tutorials/comparing-workflows
