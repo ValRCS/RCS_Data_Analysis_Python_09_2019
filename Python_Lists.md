@@ -6,6 +6,9 @@
 ### Official Doc
 * https://docs.python.org/3/tutorial/datastructures.html
 
+### Tutorials
+* https://developers.google.com/edu/python/lists
+
 * https://realpython.com/python-lists-tuples/
 
 * https://tech.geekboots.com/2017/04/list-in-python.html
