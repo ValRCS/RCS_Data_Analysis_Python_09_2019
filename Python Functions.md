@@ -4,6 +4,8 @@
 ## Defining your own function
 * https://docs.python.org/3.7/tutorial/controlflow.html#defining-functions
 * https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_(Severance)/4%3A_Functions/4.06%3A_Adding_new_functions
+* https://www.digitalocean.com/community/tutorials/how-to-define-functions-in-python-3
+* https://automatetheboringstuff.com/chapter3/ - Functions
 
 ![Function](img/function.png)
 
