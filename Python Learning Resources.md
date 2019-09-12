@@ -10,6 +10,7 @@ Kind of dry and might not be best for beginners
 
 * https://automatetheboringstuff.com/
 * https://www.learnpython.org/
+* https://erlerobotics.gitbooks.io/erle-robotics-learning-python-gitbook-free/content/
 
 # CS course with Python - interactive
 * https://runestone.academy/runestone/books/published/thinkcspy/index.html
