@@ -26,6 +26,9 @@ Kind of dry and might not be best for beginners
 ## Python in 90 minutes (for those with some programming experience in other languages)
 * https://www.slideshare.net/MattHarrison4/learn-90
 
+## Python Exercises
+* https://pynative.com/python-basic-exercise-for-beginners/
+
 ## Jupyter Notebooks collection 
 * https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
