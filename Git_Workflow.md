@@ -46,9 +46,9 @@ https://git-scm.com/downloads
 
 ## Reset to master branch
 
-** git fetch --all**
+**git fetch --all**
 
-** git reset --hard origin/master**
+**git reset --hard origin/master**
 
 Note: this will overwrite any changes you might have made to the files locally
 
