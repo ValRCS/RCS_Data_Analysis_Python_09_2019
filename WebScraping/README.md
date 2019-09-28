@@ -5,6 +5,7 @@ Web scraping, web harvesting, or web data extraction is data scraping used for e
 ## Learning basics of HTML
 
 * https://developer.mozilla.org/en-US/docs/Web/HTML
+* https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
 
 
 ### Legality
