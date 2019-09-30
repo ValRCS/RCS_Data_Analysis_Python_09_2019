@@ -5,7 +5,7 @@
 
 ### Short definition
 Machine learning is the science of getting computers to act without being explicitly programmed.
-- from Stanford Machine Learning course on Coursera
+from Stanford Machine Learning course on Coursera: https://www.coursera.org/learn/machine-learning (2Million students!! but prepare for MATLAB ughh)
 
 ### Dry definition from SAS
 Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.
