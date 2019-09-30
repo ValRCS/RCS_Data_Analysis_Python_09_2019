@@ -19,3 +19,11 @@ Machine Learning is a current application of AI based around the idea that we sh
 
 From: https://www.forbes.com/sites/bernardmarr/2016/12/06/what-is-the-difference-between-artificial-intelligence-and-machine-learning/#2906eb902742
 
+
+## Related to
+
+* Statistics - statistics draws population inferences from a sample, while machine learning finds generalizable predictive patterns.
+* Data Mining - knowledge discovery using similar/same methods as Machine Learning
+
+
+
