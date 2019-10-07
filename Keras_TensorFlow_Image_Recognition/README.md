@@ -44,7 +44,11 @@ https://keras.io/#getting-started-30-seconds-to-keras
 * https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3
 
 
+October 2019!! Tensorflow 2 released, many changes (we will use 1.4 for now)
+Colab supports both
+* https://colab.research.google.com/notebooks/tensorflow_version.ipynb
+
 Google Colab - for hosted notebooks
-http://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python_09_2019
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python_09_2019)
 
 http://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python_09_2019/blob/master/Keras_TensorFlow_Image_Recognition/keras_image_recognition_classifier_08_2019.ipynb
