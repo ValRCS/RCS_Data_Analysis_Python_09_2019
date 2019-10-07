@@ -51,4 +51,4 @@ Colab supports both
 Google Colab - for hosted notebooks
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python_09_2019)
 
-http://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python_09_2019/blob/master/Keras_TensorFlow_Image_Recognition/keras_image_recognition_classifier_08_2019.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python_09_2019/blob/master/Keras_TensorFlow_Image_Recognition/keras_image_recognition_classifier_08_2019.ipynb) - Image Recognition Classifier
