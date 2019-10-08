@@ -25,5 +25,7 @@ horse image from unsplash royalty free,
 
 Engure, Latvia by Jordan Sanchez (presumably)
 
+Standing Image from https://en.wikipedia.org/wiki/Standing
+
 ## Cascades for classifiers
 * https://github.com/opencv/opencv/tree/master/data/haarcascades
