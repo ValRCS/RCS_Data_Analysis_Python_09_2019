@@ -78,6 +78,7 @@ https://datascience-school.com/blog/power-bi-in-10-minutes-step-by-step-guide/
 
 
 
-
+## Sample Data
+* https://docs.microsoft.com/en-us/power-bi/sample-datasets
 
 
